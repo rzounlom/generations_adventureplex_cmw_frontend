@@ -1,7 +1,7 @@
 import "./App.css";
 import { Container } from "react-bootstrap";
 
-import UserList from "./components/User/UserList";
+import UserList from "./components/user/UserList";
 
 const App = () => {
   return (

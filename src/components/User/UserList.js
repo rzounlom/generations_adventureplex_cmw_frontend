@@ -1,6 +1,6 @@
 import { Query } from "react-apollo";
 import gql from "graphql-tag";
-import User from "./Users";
+import User from "./User";
 import { Spinner } from "react-bootstrap";
 const USER_QUERY = gql`
   {
